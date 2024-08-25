@@ -1,3 +1,4 @@
+![FIT PROJECT](fotoprojekt.jpg)
 # FIT PROJECT
 ## **App pro sledování progresu tréningu**
 Cíl:
@@ -7,3 +8,4 @@ Cílem tohoto projektu je sledování progresu v čase. Sledování pokroku v za
 2. Push (tlak)
 3. Legs (nohy)
 4. Full body (celé tělo)
+
